@@ -1,13 +1,3 @@
-#================================================================
-#
-#   File name   : RL-Bitcoin-trading-bot_7.py
-#   Author      : PyLessons
-#   Created date: 2021-02-25
-#   Website     : https://pylessons.com/
-#   GitHub      : https://github.com/pythonlessons/RL-Bitcoin-trading-bot
-#   Description : Trading Crypto with Reinforcement Learning #7
-#
-#================================================================
 import os
 import time
 
