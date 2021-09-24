@@ -1,13 +1,3 @@
-#================================================================
-#
-#   File name   : utils.py
-#   Author      : PyLessons
-#   Created date: 2021-02-25
-#   Website     : https://pylessons.com/
-#   GitHub      : https://github.com/pythonlessons/RL-Bitcoin-trading-bot
-#   Description : additional functions
-#
-#================================================================
 import time
 
 import pandas as pd
