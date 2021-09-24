@@ -1,13 +1,3 @@
-#================================================================
-#
-#   File name   : indicators.py
-#   Author      : PyLessons
-#   Created date: 2021-02-25
-#   Website     : https://pylessons.com/
-#   GitHub      : https://github.com/pythonlessons/RL-Bitcoin-trading-bot
-#   Description : Used to plot 5 indicators with OHCL bars and etc.
-#
-#================================================================
 import time
 
 import pandas as pd
