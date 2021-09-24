@@ -1,13 +1,3 @@
-#================================================================
-#
-#   File name   : model.py
-#   Author      : PyLessons
-#   Created date: 2021-01-13
-#   Website     : https://pylessons.com/
-#   GitHub      : https://github.com/pythonlessons/RL-Bitcoin-trading-bot
-#   Description : defined PPO Keras model classes
-#
-#================================================================
 import time
 
 import numpy as np
